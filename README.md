@@ -1,0 +1,1 @@
+This is a Simple Blogging Application using Django for iGrotto. Basic Working Blog for our system. We Will Be Producing a Lot of More Code for Our Website and Lots of Features. We Still are working to make our system better
